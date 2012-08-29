@@ -1,0 +1,95 @@
+20:15:41,335 WARN  DataBaseToolkit.dump(151) - CollectorTest database dump
+20:15:41,338 WARN  DataBaseToolkit.log(204) -     Package : 4066396674983717548 : com.ikokoon.target, coverage : 0.0, complexity : 1.0, stability : 0.0
+20:15:41,338 WARN  DataBaseToolkit.log(204) -         Class :  : id : 5009479381399852905 : name : com.ikokoon.target.Target : coverage : 0.0, complexity : 1.0, outer class : null, outer method : null, lines : 1, inner classes : []
+20:15:41,339 WARN  DataBaseToolkit.log(204) -             Method : 378290142975990743 : name : complexMethod : description : (Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;Ljava/lang/Integer;Ljava/lang/Integer;)V : coverage : 0.0, complexity : 0.0, start time : 0, end time : 0
+20:15:41,339 WARN  DataBaseToolkit.log(204) -                 Line : 7873017250689681547 : number : 70.0, counter : 1.0
+20:15:41,339 WARN  CollectorTest.collectCoverageLineExecutor(69) - Looking for package with id : 4066396674983717548, com.ikokoon.target
+20:15:41,700 WARN  CoverageClassAdapterExtTest.writeClass(51) - Directory path : com/ikokoon/target, file name : Simple.class
+20:15:41,700 WARN  CoverageClassAdapterExtTest.writeClass(56) - Absolute directory : /Users/winstonp/hudson/hudson3-plugins/serenity-plugin/./serenity/com/ikokoon/target
+20:15:41,706 WARN  CoverageClassAdapterExtTest.writeClass(51) - Directory path : com/ikokoon/target, file name : Simple.class
+20:15:41,706 WARN  CoverageClassAdapterExtTest.writeClass(56) - Absolute directory : /Users/winstonp/hudson/hudson3-plugins/serenity-plugin/./serenity/com/ikokoon/target
+20:15:41,735 ERROR CoverageTest.visit(40) - Expected exception : Class not covered : , java.lang.RuntimeException: Class not covered : 
+20:15:42,093 WARN  DependencyTest.access(87) - Inner class : com.ikokoon.target.TargetAccess$PrivateStaticInnerClass, 10
+20:15:42,094 WARN  DependencyTest.access(87) - Inner class : com.ikokoon.target.TargetAccess$DefaultStaticInnerClass, 8
+20:15:42,095 WARN  DependencyTest.access(87) - Inner class : com.ikokoon.target.TargetAccess$ProtectedStaticInnerClass, 12
+20:15:42,095 WARN  DependencyTest.access(87) - Inner class : com.ikokoon.target.TargetAccess$PublicStaticInnerClass, 9
+20:15:42,095 WARN  DependencyTest.access(87) - Inner class : com.ikokoon.target.TargetAccess$PrivateInnerClass, 2
+20:15:42,099 WARN  DependencyTest.access(87) - Inner class : com.ikokoon.target.TargetAccess$ProtectedInnerClass, 4
+20:15:42,099 WARN  DependencyTest.access(87) - Inner class : com.ikokoon.target.TargetAccess$DefaultInnerClass, 0
+20:15:42,099 WARN  DependencyTest.access(87) - Inner class : com.ikokoon.target.TargetAccess$PublicInnerClass, 1
+20:15:42,099 WARN  DependencyTest.access(92) - Method : init, 1
+20:15:42,100 WARN  DependencyTest.access(92) - Method : publicMethod, 1
+20:15:42,100 WARN  DependencyTest.access(92) - Method : defaultMethod, 0
+20:15:42,100 WARN  DependencyTest.access(92) - Method : protectedMethod, 4
+20:15:42,100 WARN  DependencyTest.access(92) - Method : privateMethod, 2
+20:15:42,100 WARN  DependencyTest.access(92) - Method : publicStaticMethod, 9
+20:15:42,101 WARN  DependencyTest.access(92) - Method : defaultStaticMEthod, 8
+20:15:42,101 WARN  DependencyTest.access(92) - Method : protectedStaticMethod, 12
+20:15:42,101 WARN  DependencyTest.access(92) - Method : privateStaticMethod, 10
+20:15:42,101 WARN  DependencyTest.access(92) - Method : synchronizedMethod, 33
+20:15:42,101 WARN  DependencyTest.access(92) - Method : abstractMethod, 1025
+20:15:42,322 WARN  InstrumentationTest.checkProfilingAdviceInstructions(66) - Wrote class to : /Users/winstonp/hudson/hudson3-plugins/serenity-plugin/./com/ikokoon/target/Target.class
+20:15:43,355 WARN  DataBaseToolkit.dump(151) - Dump after profiling
+20:15:43,356 WARN  DataBaseToolkit.log(204) -     Package : 4066396674983717548 : com.ikokoon.target, coverage : 0.0, complexity : 1.0, stability : 0.0
+20:15:43,356 WARN  DataBaseToolkit.log(204) -         Class :  : id : 5009479381399852905 : name : com.ikokoon.target.Target : coverage : 0.0, complexity : 1.0, outer class : null, outer method : null, lines : 2, inner classes : []
+20:15:43,356 WARN  DataBaseToolkit.log(204) -             Method : 5310688486321859050 : name : init : description : ()V : coverage : 0.0, complexity : 0.0, start time : 1346210142353844000, end time : 1346210142353887000
+20:15:43,357 WARN  DataBaseToolkit.log(204) -             Method : 1887510196388544144 : name : join : description : (Ljava/lang/Long;Ljava/lang/Integer;)V : coverage : 0.0, complexity : 0.0, start time : 1346210142354158000, end time : 1346210143355293000
+20:15:43,357 WARN  InstrumentationTest.checkProfilingAdviceInstructions(99) - Method : 1887510196388544144:join
+20:15:43,357 WARN  InstrumentationTest.checkProfilingAdviceInstructions(102) - Invocations : 1
+20:15:43,357 WARN  InstrumentationTest.checkProfilingAdviceInstructions(104) - Start time : 1346210142354158000
+20:15:43,358 WARN  InstrumentationTest.checkProfilingAdviceInstructions(105) - End time   : 1346210143355293000
+20:15:43,358 WARN  InstrumentationTest.checkProfilingAdviceInstructions(107) - Start wait : 1346210142354188000
+20:15:43,358 WARN  InstrumentationTest.checkProfilingAdviceInstructions(108) - End wait   : 1346210143355267000
+20:15:43,358 WARN  InstrumentationTest.checkProfilingAdviceInstructions(109) - Wait time  : 1001079000
+20:15:43,358 WARN  InstrumentationTest.checkProfilingAdviceInstructions(111) - Net time : 0
+20:15:43,359 WARN  InstrumentationTest.checkProfilingAdviceInstructions(112) - Total time : 1001135000
+20:15:43,361 WARN  InstrumentationTest.interfaceTest(151) - Wrote class to : /Users/winstonp/hudson/hudson3-plugins/serenity-plugin/./com/ikokoon/serenity/instrumentation/InstrumentationTest$Interface.class
+20:15:43,393 WARN  ProfilingMethodAdapter.visitCode(68) - Class name : com.ikokoon.target.Target, name : getE, desc : ()Ljava/lang/Object;
+20:15:43,394 WARN  ProfilingMethodAdapter.visitCode(68) - Class name : com.ikokoon.target.Target, name : getName, desc : (Ljava/lang/String;)Ljava/lang/String;
+20:15:43,397 WARN  ProfilingMethodAdapter.visitCode(68) - Class name : com.ikokoon.target.Target, name : complexMethod, desc : (Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;Ljava/lang/Integer;Ljava/lang/Integer;)V
+20:15:43,407 WARN  ProfilingMethodAdapter.visitCode(68) - Class name : com.ikokoon.target.Target, name : methodName, desc : (Ljava/lang/String;Ljava/lang/String;)Ljava/lang/String;
+20:15:43,408 WARN  ProfilingMethodAdapter.visitCode(68) - Class name : com.ikokoon.target.Target, name : checkAndSetF, desc : (I)V
+20:15:43,409 WARN  ProfilingMethodAdapter.visitCode(68) - Class name : com.ikokoon.target.Target, name : sleep, desc : (Ljava/lang/Long;)V
+20:15:43,411 WARN  ProfilingMethodAdapter.visitCode(68) - Class name : com.ikokoon.target.Target, name : sleep, desc : (Ljava/lang/Long;Ljava/lang/Integer;)V
+20:15:43,413 WARN  ProfilingMethodAdapter.visitCode(68) - Class name : com.ikokoon.target.Target, name : waitMethod, desc : ()V
+20:15:43,415 WARN  ProfilingMethodAdapter.visitCode(68) - Class name : com.ikokoon.target.Target, name : waitMethod, desc : (Ljava/lang/Long;)V
+20:15:43,417 WARN  ProfilingMethodAdapter.visitCode(68) - Class name : com.ikokoon.target.Target, name : waitMethod, desc : (Ljava/lang/Long;Ljava/lang/Integer;)V
+20:15:43,419 WARN  ProfilingMethodAdapter.visitCode(68) - Class name : com.ikokoon.target.Target, name : join, desc : ()V
+20:15:43,421 WARN  ProfilingMethodAdapter.visitCode(68) - Class name : com.ikokoon.target.Target, name : join, desc : (Ljava/lang/Long;)V
+20:15:43,423 WARN  ProfilingMethodAdapter.visitCode(68) - Class name : com.ikokoon.target.Target, name : join, desc : (Ljava/lang/Long;Ljava/lang/Integer;)V
+20:15:43,424 WARN  ProfilingMethodAdapter.visitCode(68) - Class name : com.ikokoon.target.Target, name : yield, desc : ()V
+20:15:43,427 WARN  ProfilingMethodAdapter.visitCode(68) - Class name : com.ikokoon.target.Target, name : privy, desc : ()V
+20:15:43,543 WARN  DataBaseOdb.close(197) - Attempted to close the database again : com.ikokoon.serenity.persistence.DataBaseOdb@301db5ec
+20:15:43,659 WARN  DataBaseToolkit.dump(151) - DataBaseOdbTest database dump : 
+20:15:43,747 WARN  DataBaseOdb.persist(155) - Attempted to persist a duplicate composite : 4066396674983717548:com.ikokoon.target, com.ikokoon.serenity.persistence.DataBaseOdb@319da967
+20:16:02,436 WARN  Accumulator.execute(63) - Can't read file : /Users/winstonp/hudson/hudson3-plugins/serenity-plugin/;/Users/winstonp/hudson/hudson3-plugins/serenity-plugin/target/serenity.jar;
+20:16:10,213 WARN  AggregatorTest$1.execute(71) - com.ikokoon.serenity.model.Project@ce1e519[name=com.ikokoon.serenity.model.Project,timestamp=Tue Aug 28 20:16:09 PDT 2012,coverage=1.48,complexity=2.97,abstractness=0.06,stability=0.32,distance=0.43,lines=67392.0,methods=13998.0,classes=1731.0,packages=52.0,id=8720669836632739014,parent=<null>,children=[]]
+20:16:13,527 WARN  AggregatorTest$1.execute(80) - com.ikokoon.serenity.model.Project@4d366eb1[name=com.ikokoon.serenity.model.Project,timestamp=Tue Aug 28 20:16:09 PDT 2012,coverage=1.48,complexity=2.97,abstractness=0.06,stability=0.32,distance=0.43,lines=67392.0,methods=13998.0,classes=1731.0,packages=52.0,id=8720669836632739014,parent=<null>,children=[]]
+20:16:13,528 WARN  AggregatorTest.aggregate(85) - Aggregation took : 0.10895619960775767
+20:16:40,325 WARN  Listener.execute(38) - Starting socket listener on port : 50005
+20:16:40,336 WARN  Listener$1.run(43) - Running : com.ikokoon.serenity.process.Listener$1@134215c1
+20:16:40,364 WARN  Listener$1.run(57) - Client message : report
+20:16:40,367 ERROR Reporter.execute(59) - Reporter : 
+20:16:50,365 WARN  ListenerTest.listen(46) - Searching directory : /Users/winstonp/hudson/hudson3-plugins/serenity-plugin/./serenity
+20:16:50,390 WARN  ListenerTest.listen(53) - Report files : [./serenity/greatestAverageTimePerMethod.html]
+20:16:52,940 WARN  PrunerTest.execute(63) - Prune duration : 0.5685048322910745
+20:16:52,950 ERROR Reporter.execute(59) - Reporter : 
+20:16:52,955 ERROR Profiler.initialize(93) - Profiler initialize : com.ikokoon.serenity.persistence.DataBaseOdb@542e2e91, -1
+20:16:52,955 ERROR Profiler.initialize(110) - Profiler initialize : com.ikokoon.serenity.persistence.DataBaseOdb@542e2e91, -1
+20:16:58,614 ERROR Transformer.premain(73) - Starting Serenity : 
+20:16:58,616 ERROR Profiler.initialize(93) - Profiler initialize : com.ikokoon.serenity.persistence.DataBaseRam@7f53d072, -1
+20:16:58,616 ERROR Profiler.initialize(110) - Profiler initialize : com.ikokoon.serenity.persistence.DataBaseRam@7f53d072, -1
+20:16:58,616 WARN  Listener.execute(38) - Starting socket listener on port : 50005
+20:16:58,618 ERROR Transformer.premain(99) - Finished initializing Serenity : 
+20:16:58,629 WARN  Listener$1.run(43) - Running : com.ikokoon.serenity.process.Listener$1@57ce7299
+20:16:58,629 ERROR Listener$1.run(48) - Exception opening a socket, could be the firewall : 
+20:16:58,630 ERROR Listener$1.run(49) - The listener will not be listening : 
+java.net.BindException: Address already in use
+	at java.net.PlainSocketImpl.socketBind(Native Method)
+	at java.net.PlainSocketImpl.bind(PlainSocketImpl.java:383)
+	at java.net.ServerSocket.bind(ServerSocket.java:328)
+	at java.net.ServerSocket.<init>(ServerSocket.java:194)
+	at java.net.ServerSocket.<init>(ServerSocket.java:106)
+	at com.ikokoon.serenity.process.Listener$1.run(Listener.java:46)
+	at java.util.TimerThread.mainLoop(Timer.java:512)
+	at java.util.TimerThread.run(Timer.java:462)
